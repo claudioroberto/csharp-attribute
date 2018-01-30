@@ -1,0 +1,6 @@
+D:\claudio\artigos\ConsoleApp.Attribute\ConsoleApp.Attribute\bin\Debug\ConsoleApp.Atributos.exe
+D:\claudio\artigos\ConsoleApp.Attribute\ConsoleApp.Attribute\bin\Debug\ConsoleApp.Atributos.pdb
+D:\claudio\artigos\ConsoleApp.Attribute\ConsoleApp.Attribute\obj\Debug\ConsoleApp.Atributos.csprojResolveAssemblyReference.cache
+D:\claudio\artigos\ConsoleApp.Attribute\ConsoleApp.Attribute\obj\Debug\ConsoleApp.Atributos.csproj.CoreCompileInputs.cache
+D:\claudio\artigos\ConsoleApp.Attribute\ConsoleApp.Attribute\obj\Debug\ConsoleApp.Atributos.exe
+D:\claudio\artigos\ConsoleApp.Attribute\ConsoleApp.Attribute\obj\Debug\ConsoleApp.Atributos.pdb
